@@ -1,0 +1,17 @@
+#all{
+	border:1px solid red;
+	width:500px;
+	height:300px;
+	margin:0px auto;
+}
+
+#tab td{
+ 	width:100px;
+}
+#da{
+	text-align: right;
+}
+#da a{
+	text-decoration: none;
+	color: black;
+}

@@ -1,0 +1,20 @@
+#all{
+	width:700px;
+	height:300px;
+	margin:0px auto;
+	border:1px solid red;
+}
+#all td{
+	text-align: center;
+	width:300px;
+}
+
+#all #div{
+	text-align: center;
+}
+#tab tr td{
+	text-align: left;
+}
+#tab td{
+	width:350px;
+}
